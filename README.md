@@ -1,5 +1,5 @@
 # Laboratorio-I-Programacion-I
-#### ArrayList: Biblioteca ArrayList, ejemplos de su utilizacion, plantillas de ArrayList.
+** ArrayList: ** Biblioteca ArrayList, ejemplos de su utilizacion, plantillas de ArrayList.
 #### Clase: Practicas realizadas en clase durante todo el cuatrimestre.
 #### Final: Examen final de la materia Laboratorio I.
 #### Parciales: Parciales tomados en Laboratorio I.
