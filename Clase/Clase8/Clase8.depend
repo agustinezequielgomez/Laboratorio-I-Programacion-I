@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1524229522 source:c:\users\alumno\desktop\laboratorio-i-programacion-i\clase8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1524250672 source:e:\facu\laboratorio 1\clase\clase8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

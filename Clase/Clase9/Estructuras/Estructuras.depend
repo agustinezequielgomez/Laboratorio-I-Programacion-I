@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1524753491 source:d:\gomezagustin\laboratorio-i-programacion-i\clase9\estructuras\localidad.c
+	"Localidad.h"
+
+1524753369 d:\gomezagustin\laboratorio-i-programacion-i\clase9\estructuras\localidad.h
+
+1524795815 source:e:\facu\laboratorio 1\clase\clase9\estructuras\localidad.c
+	"Localidad.h"
+
+1524795815 e:\facu\laboratorio 1\clase\clase9\estructuras\localidad.h
+
+1524794620 source:e:\facu\laboratorio 1\clase\clase9\estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Localidad.h"
+

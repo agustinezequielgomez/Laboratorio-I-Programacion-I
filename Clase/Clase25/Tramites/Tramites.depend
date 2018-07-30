@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1529679431 source:c:\users\alumno\desktop\laboratorio-i-programacion-i\clase25\tramites\main.c
+	"Tramite.h"
+	<stdio.h>
+	<stdlib.h>
+
+1529679330 source:c:\users\alumno\desktop\laboratorio-i-programacion-i\clase25\tramites\tramite.c
+	<stdio.h>
+	<string.h>
+	"Tramite.h"
+
+1529679145 c:\users\alumno\desktop\laboratorio-i-programacion-i\clase25\tramites\tramite.h
+	"ArrayList.h"
+
+1529668473 source:c:\users\alumno\desktop\laboratorio-i-programacion-i\clase25\tramites\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529668473 c:\users\alumno\desktop\laboratorio-i-programacion-i\clase25\tramites\arraylist.h
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1526736485 source:c:\users\alumno\desktop\laboratorio-i-programacion-i\clase 16\tp 2 (punteros)\funciones.c
+	<stdio.h>
+	"funciones.h"
+	<string.h>
+
+1526739790 c:\users\alumno\desktop\laboratorio-i-programacion-i\clase 16\tp 2 (punteros)\funciones.h
+
+1526739747 source:c:\users\alumno\desktop\laboratorio-i-programacion-i\clase 16\tp 2 (punteros)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1526794698 source:e:\facu\laboratorio 1\clase\clase16\tp 2 (punteros)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1526793016 e:\facu\laboratorio 1\clase\clase16\tp 2 (punteros)\funciones.h
+
+1526794738 source:e:\facu\laboratorio 1\clase\clase16\tp 2 (punteros)\funciones.c
+	<stdio.h>
+	"funciones.h"
+	<string.h>
+

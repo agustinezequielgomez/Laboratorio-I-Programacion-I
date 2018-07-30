@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1529585944 source:c:\users\alumno\desktop\laboratorio-i-programacion-i\clase24\modeloparcial\arraylist.c
+	"ArrayList.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529585700 c:\users\alumno\desktop\laboratorio-i-programacion-i\clase24\modeloparcial\arraylist.h
+
+1529592694 source:c:\users\alumno\desktop\laboratorio-i-programacion-i\clase24\modeloparcial\main.c
+	"cliente.h"
+	<stdio.h>
+	<stdlib.h>
+
+1529593728 source:c:\users\alumno\desktop\laboratorio-i-programacion-i\clase24\modeloparcial\cliente.c
+	"cliente.h"
+	"stdio.h"
+
+1529594138 c:\users\alumno\desktop\laboratorio-i-programacion-i\clase24\modeloparcial\cliente.h
+	"ArrayList.h"
+	"urgente.h"
+	"regular.h"
+
+1529593331 source:c:\users\alumno\desktop\laboratorio-i-programacion-i\clase24\modeloparcial\urgente.c
+	<stdio.h>
+	"urgente.h"
+
+1529593331 c:\users\alumno\desktop\laboratorio-i-programacion-i\clase24\modeloparcial\urgente.h
+
+1529591919 source:c:\users\alumno\desktop\laboratorio-i-programacion-i\clase24\modeloparcial\parsers.c
+	"cliente.h"
+	"ArrayList.h"
+	"stdio.h"
+
+1529593331 source:c:\users\alumno\desktop\laboratorio-i-programacion-i\clase24\modeloparcial\regular.c
+	"regular.h"
+	"cliente.h"
+	<stdio.h>
+
+1529593331 c:\users\alumno\desktop\laboratorio-i-programacion-i\clase24\modeloparcial\regular.h
+
+1529614542 source:e:\facu\laboratorio 1\clase\clase24\modeloparcial\arraylist.c
+	"ArrayList.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529614542 e:\facu\laboratorio 1\clase\clase24\modeloparcial\arraylist.h
+
+1529614544 source:e:\facu\laboratorio 1\clase\clase24\modeloparcial\main.c
+	"cliente.h"
+	<stdio.h>
+	<stdlib.h>
+
+1529623024 e:\facu\laboratorio 1\clase\clase24\modeloparcial\cliente.h
+	"ArrayList.h"
+	"urgente.h"
+	"regular.h"
+
+1529614544 e:\facu\laboratorio 1\clase\clase24\modeloparcial\urgente.h
+
+1529614544 e:\facu\laboratorio 1\clase\clase24\modeloparcial\regular.h
+
+1529615794 source:e:\facu\laboratorio 1\clase\clase24\modeloparcial\parsers.c
+	"cliente.h"
+	"ArrayList.h"
+	"stdio.h"
+
+1529623176 source:e:\facu\laboratorio 1\clase\clase24\modeloparcial\cliente.c
+	"cliente.h"
+	"stdio.h"
+
+1529615464 source:e:\facu\laboratorio 1\clase\clase24\modeloparcial\regular.c
+	"regular.h"
+	"cliente.h"
+	<stdio.h>
+
+1529615497 source:e:\facu\laboratorio 1\clase\clase24\modeloparcial\urgente.c
+	<stdio.h>
+	"cliente.h"
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1522967963 source:d:\clase3\clase3\funciones\misfunciones.c
+
+1522967770 source:d:\clase3\clase3\funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+

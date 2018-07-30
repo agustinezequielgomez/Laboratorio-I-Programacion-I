@@ -1,0 +1,21 @@
+declarar 3 variable
+char nombre[?];
+char apellido[?];
+char apellidoYNombre[?];
+
+
+
+
+
+
+
+
+
+
+
+
+
+***********************
+ingresar el apellido scarafilo
+ingresar el nombre german
+apellidoYNombre = "Scarafilo, German"

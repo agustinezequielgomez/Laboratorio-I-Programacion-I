@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529584395 source:c:\users\alumno\desktop\laboratorio-i-programacion-i\clase24\punterosafunciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
