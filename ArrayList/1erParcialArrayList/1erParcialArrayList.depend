@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1530643566 source:e:\facu\arraylist\1erparcialarraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530643566 e:\facu\arraylist\1erparcialarraylist\arraylist.h
+
+1530644959 source:e:\facu\arraylist\1erparcialarraylist\automoviles.c
+	<stdio.h>
+	"automoviles.h"
+
+1530645942 e:\facu\arraylist\1erparcialarraylist\automoviles.h
+	"propietario.h"
+
+1530643566 e:\facu\arraylist\1erparcialarraylist\propietario.h
+	"ArrayList.h"
+
+1530643566 source:e:\facu\arraylist\1erparcialarraylist\egresos.c
+	<stdio.h>
+	"egresos.h"
+
+1530643566 e:\facu\arraylist\1erparcialarraylist\egresos.h
+	"automoviles.h"
+
+1530643566 source:e:\facu\arraylist\1erparcialarraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1530643836 source:e:\facu\arraylist\1erparcialarraylist\parser.c
+	<stdio.h>
+	"parser.h"
+
+1530643566 e:\facu\arraylist\1erparcialarraylist\parser.h
+	"egresos.h"
+
+1530646622 source:e:\facu\arraylist\1erparcialarraylist\propietario.c
+	<stdio.h>
+	<stdlib.h>
+	"propietario.h"
+

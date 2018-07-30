@@ -1,0 +1,12 @@
+git clone repositorio
+
+//cd el directorio del repositorio ej:
+cd PunterosEnC-
+
+	git status
+	// si hay rojo
+	git add .
+	git commit -m "mensaje de porque se guarda"
+	....
+
+	git push origin master -f

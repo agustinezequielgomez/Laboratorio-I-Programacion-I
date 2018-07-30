@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1530651494 source:d:\final\arraylist\final\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530651470 d:\final\arraylist\final\arraylist.h
+
+1531317183 source:d:\final\arraylist\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+
+1531317264 source:d:\final\arraylist\final\numeronatural.c
+	"numeroNatural.h"
+	<stdio.h>
+
+1531317042 d:\final\arraylist\final\numeronatural.h
+	"ArrayList.h"
+
+1531316853 source:d:\final\arraylist\final\parser.c
+	"parser.h"
+	<stdio.h>
+
+1531316835 d:\final\arraylist\final\parser.h
+	"numeroNatural.h"
+
